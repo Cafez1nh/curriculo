@@ -17,3 +17,12 @@ FUNÇÃO: Repositor/Empacotador
 Paschoalotto - 02/23-atualmente
 
 FUNÇÃO: Tele-Marketing
+---
+
+# CURSOS
+---
+ENSINO MÉDIO-COMPLETO
+CONCLUSÃO: 2022
+
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS-UNIMAR-CURSANDO
+CONCLUSÃO: 2025
